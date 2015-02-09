@@ -3,7 +3,7 @@
  * Plugin Name: WP Different Navigation on Each Page And Post
  * Plugin URI: https://wordpress.org/plugins/wp-different-navigation-on-each-page-and-post/
  * Description: This plugin are display different-different navigation on each page and post.
- * Version: 1.0.0
+ * Version: 1.0
  * Author: Rajesh Kumawat
  * Author URI: https://profiles.wordpress.org/rajeshkumawat78/
  */
@@ -13,7 +13,7 @@ if (!function_exists('is_admin')) {
     exit();
 }
 if ( ! defined( 'WP_DIFF_NAVI_EACH_PAGE_VERSION' ) )
-define( 'WP_DIFF_NAVI_EACH_PAGE_VERSION', '1.0.0' );
+define( 'WP_DIFF_NAVI_EACH_PAGE_VERSION', '1.0' );
 
 /*= Proper way to enqueue scripts and styles
 ---------------------------------------*/
