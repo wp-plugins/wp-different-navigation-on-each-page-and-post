@@ -3,8 +3,8 @@
 Contributors: rajeshkumawat78
 Tags: custom navigation,different menu,different-different menu on each page,different-different menu on each post,different navigation page,register user page menu,member menu, login user menu, logout user menu
 Requires at least: 3.0.1
-Tested up to: 4.1
-Stable tag: 4.3
+Tested up to: 4.4
+Stable tag: 4.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,10 +43,10 @@ Thanks
 
 == Screenshots ==
 
-1. assets/screenshot-1.jpg
-2. assets/screenshot-2.jpg
-3. assets/screenshot-3.jpg
-4. assets/screenshot-4.jpg
+1. Step 1.
+2. Step 2.
+3. Step 3.
+4. Step 4. The Final Output.
 
  
 == Changelog ==
